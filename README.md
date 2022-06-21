@@ -1,4 +1,4 @@
-# Google Translate TTS - with extra prepending delay
+# Google Translate TTS - with extra delay
 
 This is a fork of Home Assistant's built-in Google Translate Text-to-Speech component as a custom component, with extra option for delay to the audio stream.
 
